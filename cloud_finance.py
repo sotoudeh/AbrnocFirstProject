@@ -72,8 +72,8 @@ class Invoice:
 from datetime import datetime, timedelta 
 
 # Create some users with different ids, usernames and credits 
-user1 = User(1,"Alice",1000) 
-user2 = User(2,"Bob",500) 
+user1 = User(1,"Amir",1000) 
+user2 = User(2,"Mammad",500) 
 
 # Create some subscriptions with different names and prices 
 sub1 = Subscription("VM",10) 
